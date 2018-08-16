@@ -1,0 +1,23 @@
+baseURL = "/"
+languageCode = "en-us"
+
+title = "Monte Carlo String/M-theory Collaboration"
+theme = "kraiklyn"
+
+pygmentsCodeFences = true
+pygmentsStyle = "monokailight"
+
+[params]
+externalTitle = "Links"
+sidebarColor = "purple"
+customCss = []
+
+[[menu.shortcuts]]
+name = "MCSMC on Github"
+url = "https://github.com/MCSMC"
+weight = 10
+
+[[menu.shortcuts]]
+name = "MCSMC on Google"
+url = "https://sites.google.com/site/mcmcintroduction/"
+weight = 20
