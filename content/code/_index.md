@@ -5,4 +5,8 @@ anchor: "MCMC"
 weight: 15
 ---
 
-Markov Chain Monte Carlo can be used in applications to Quantum Field Theories and can provide useful insights into Quantum Gravity through the Holographic principle.
+Markov Chain Monte Carlo (MCMC) can be used in applications to Quantum Field Theories and can provide useful insights into Quantum Gravity through the Holographic principle.
+
+{{% block info %}}
+This section is a basic introduction to MCMC algorithms. More will be added.
+{{% /block %}}
